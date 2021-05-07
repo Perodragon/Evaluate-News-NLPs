@@ -4,7 +4,7 @@ This Project Focusing On [Webpack_BuildTools].
 
 This Project is going to build a web tool that allows users to run [Natural-Language-Processing] (NLP) on articles or blogs found on other websites. NLP is the ability of an application to understand the human language, written or oral.
 
-## I choose [MeaningCloud-API], Because I started this project after July 7, 2020. 
+## I Choose [MeaningCloud-API].
 
 ## Content
 

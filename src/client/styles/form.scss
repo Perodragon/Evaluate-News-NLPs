@@ -1,0 +1,44 @@
+form {
+    border: 1px solid #d11616;
+    border-radius: 3px;
+    padding: 40px;
+}
+
+input {
+    padding: 5px 20px;
+    width: 100%;
+    line-height: 16px;
+    margin: 10px 0;
+    color: rgb(97, 7, 92);
+    font-weight: bold;
+}
+
+#resultheader {
+    width: 100%;
+    line-height: 140%;
+    font-size: 32px;
+    color: rgb(9, 161, 17);
+    text-shadow: 2px 2px rgb(146, 231, 247);
+    font-weight: bold;
+    text-align: center;
+    background-color:fade-in($color: #FFFFFF, $amount: 0.7);
+    justify-content: center;
+    font-family: cursive;
+    padding: 10px;
+    border: 5px;
+}
+
+#results {
+    width: 100%;
+    line-height: 140%;
+    font-size: 22px;
+    color: blue;
+    text-shadow: 2px 2px rgb(250, 171, 184);
+    font-weight: bold;
+    text-align: left;
+    background-color:fade-in($color: #FFFFFF, $amount: 0.7);
+    justify-content: center;
+    font-family: cursive;
+    padding: 10px;
+    border: 5px;
+}
